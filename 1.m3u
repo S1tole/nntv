@@ -349,7 +349,7 @@ http://aflaxtv.xyz:8080/F21312/b9181c9b/301605
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0be97c6e2c376db49be656d245fff8cb.png" group-title="Japan",NHK World Japan
 http://aflaxtv.xyz:8080/F21312/b9181c9b/145052
 #EXTINF:-1 tvg-id="" tvg-name="Nihon Eiga Senmon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Japan",Nihon Eiga Senmon
-http://aflaxtv.xyz:8080/F21312/b9181c9b/301608
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 tvg-id="" tvg-name="Nippon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/6eca820c11ab1a6cacfd76f8e055f36f.png" group-title="Japan",Nippon TV
 http://aflaxtv.xyz:8080/F21312/b9181c9b/300020
 #EXTINF:-1 tvg-id="" tvg-name="Nittele G Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Japan",Nittele G Plus
